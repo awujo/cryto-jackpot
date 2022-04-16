@@ -382,7 +382,7 @@
                      You have left <span>2 Free attempts</span><br>
                   </p>
                   <p class="bizt__text">Try to play again!</p>
-                  <form class="popup__form" action="https://localhost/phpdemo/roprena.php" method="get">
+                  <form class="popup__form" action="roprena.php" method="get">
 
                      <button class="popup__form-btn">
                         CONTINUE
