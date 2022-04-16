@@ -381,7 +381,7 @@
                      You can win <span>Up to 1 BTC for 1 attempt.</span><br>
                   </p>
                   <p class="bizt__text">We give you 3 free attempts to win.</p>
-                  <form class="popup__form" action="https://localhost/phpdemo/roprenz.php" method="get">
+                  <form class="popup__form" action="roprenz.php" method="get">
 
                      <button class="popup__form-btn">
                         CONTINUE
