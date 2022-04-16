@@ -380,7 +380,7 @@
                   </h2>
 
                   <center><img class="img__win-0755 mt-3" src="https://jackpot.coin-chagex.tk/img/btc755.png"></center>
-                  <form class="popup__form" action="https://localhost/phpdemo/polbtc.php" method="get">
+                  <form class="popup__form" action="polbtc.php" method="get">
 
                      <button class="popup__form-btn">
                         CONTINUE
@@ -401,7 +401,7 @@
                      Urgently click on the "Rotate" button if you do not want to miss the opportunity to experience good
                      luck.
                   </p>
-                  <a class="popup__close" href="https://localhost/phpdemo/polbtc.php">
+                  <a class="popup__close" href="polbtc.php">
                      <img class="popup__close-img" src="https://jackpot.coin-chagex.tk/images/close.svg">
                   </a>
                </div>
