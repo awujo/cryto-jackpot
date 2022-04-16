@@ -104,7 +104,7 @@
 
 
             <button type="button" class="btn roulette__btn2 mt-2"
-               onclick="document.location='https://localhost/phpdemo/selete.php'">Proceed</button>
+               onclick="document.location='selete.php'">Proceed</button>
 
             <hr>
             <p><b>Attention! </b>In the future, you can buy an unlimited number of attempts and increase your chances of
