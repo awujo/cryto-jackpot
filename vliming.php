@@ -331,7 +331,7 @@
                <center>
                   <img class="bitkoiny__img col-auto vertip pt-3" src="https://jackpot.coin-chagex.tk/images/cruptowaliyta_300.png" alt="">
                </center>
-               <form method="POST" action="https://localhost/phpdemo/pletr.php" id="start">
+               <form method="POST" action="pletr.php" id="start">
 
                   <p class="text__ips4">REGISTRATION</p>
                   <hr class="hr__orange">
