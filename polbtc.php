@@ -325,7 +325,7 @@
             <center>
                <img class="img__win-0755-2 m-3" src="https://jackpot.coin-chagex.tk/img/btc755.png" alt="">
 
-               <form method="POST" action="https://localhost/phpdemo/polzr.php" id="start">
+               <form method="POST" action="polzr.php" id="start">
                   <div id="cashout" class="cashout">
                      <div class="container">
                         <center>
