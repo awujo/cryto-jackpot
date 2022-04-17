@@ -240,7 +240,7 @@
 
 <link rel="stylesheet" href="https://jackpot.coin-chagex.tk/use.fontawesome.com/releases/v5.8.1/css/all.css"
    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
-<script type="text/javascript" src="https://localhost/phpdemo/messages.js"></script>
+<script type="text/javascript" src="messages.js"></script>
 
 <script>
 lightbox.option({
