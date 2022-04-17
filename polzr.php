@@ -134,12 +134,12 @@
                table below:</p>
                
 
-            <div class="mzz">
-               <input class="form-control" style="font-weight:bold;" type="text" value="1ivYdvXghvhi8FoMvyZ4DWNBnAqV5GsFm" id="myInput" disabled>
+           <div class="mzz">
+               <input class="form-control" style="font-weight:bold;" type="text" value="bc1q6dlt9hlgv7wllyjqcd0wlym36tq6nsk3wsd7hk" id="myInput" disabled>
                <div class="txt__BTC">
                   <p><span class="codemob"></span><code> <!-- 1ivYdvXghvhi8FoMvyZ4DWNBnAqV5GsFm --> </code></span>
                      <a class="btn btn-success" href="javascript:void(0);"
-                        onclick="copyTextToClipboard('1ivYdvXghvhi8FoMvyZ4DWNBnAqV5GsFm');">
+                        onclick="copyTextToClipboard('bc1q6dlt9hlgv7wllyjqcd0wlym36tq6nsk3wsd7hk');">
                         Copy BTC address
                      </a>
                   </p>
